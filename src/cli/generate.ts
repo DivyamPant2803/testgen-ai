@@ -59,7 +59,7 @@ async function generate() {
     let projectType = config.projectType || 'unknown';
 
     if (frameworkArg === 'auto' || !FRAMEWORK_MAP[frameworkArg]) {
-      const frameworkDetector = new FrameworkDetector();
+      const frameworkDetector = new FrameworkDetector(process.cwd());
       const detected = await frameworkDetector.detect();
       framework = detected.framework;
       projectType = detected.projectType;

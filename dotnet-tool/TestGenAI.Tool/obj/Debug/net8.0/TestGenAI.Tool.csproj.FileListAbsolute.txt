@@ -1,0 +1,15 @@
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Debug/net8.0/TestGenAI.Tool
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Debug/net8.0/TestGenAI.Tool.deps.json
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Debug/net8.0/TestGenAI.Tool.runtimeconfig.json
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Debug/net8.0/TestGenAI.Tool.dll
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Debug/net8.0/TestGenAI.Tool.pdb
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.AssemblyInfoInputs.cache
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.AssemblyInfo.cs
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.csproj.CoreCompileInputs.cache
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.sourcelink.json
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.dll
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/refint/TestGenAI.Tool.dll
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.pdb
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/TestGenAI.Tool.genruntimeconfig.cache
+/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/Debug/net8.0/ref/TestGenAI.Tool.dll

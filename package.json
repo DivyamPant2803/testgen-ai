@@ -1,5 +1,5 @@
 {
-  "name": "@testgen/ai",
+  "name": "testgen-ai-cli",
   "version": "0.1.0",
   "description": "AI-powered unit test generator - zero config, works with all AI IDEs. Supports Jest, xUnit, NUnit and more.",
   "type": "module",

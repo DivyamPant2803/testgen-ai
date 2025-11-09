@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TestGenAI.Tool</id>
+    <version>0.1.0</version>
+    <authors>Divyam Pant</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/DivyamPant2803/testgen-ai</projectUrl>
+    <description>AI-powered unit test generator for .NET - zero config, works with all AI IDEs. Supports xUnit, NUnit, and more.</description>
+    <tags>testing unit-test test-generation ai xunit nunit dotnet tool</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/DivyamPant2803/testgen-ai.git" commit="970fa7b9a3e21a39036b39fdc8f52771b6abf83a" />
+  </metadata>
+  <files>
+    <file src="/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/obj/DotnetToolSettings.xml" target="tools/net8.0/any/DotnetToolSettings.xml" />
+    <file src="/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Release/net8.0/publish/TestGenAI.Tool.dll" target="tools/net8.0/any/TestGenAI.Tool.dll" />
+    <file src="/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Release/net8.0/publish/TestGenAI.Tool.deps.json" target="tools/net8.0/any/TestGenAI.Tool.deps.json" />
+    <file src="/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Release/net8.0/publish/TestGenAI.Tool.runtimeconfig.json" target="tools/net8.0/any/TestGenAI.Tool.runtimeconfig.json" />
+    <file src="/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/bin/Release/net8.0/publish/TestGenAI.Tool.pdb" target="tools/net8.0/any/TestGenAI.Tool.pdb" />
+    <file src="/Users/divyampant/Documents/Projects/Playwright MCP/testgen-ai-package/dotnet-tool/TestGenAI.Tool/README.md" target="/README.md" />
+  </files>
+</package>

@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>testgen</ToolCommandName>
+    <PackageId>TestGenAI.Tool</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Divyam Pant</Authors>
+    <Company>Divyam Pant</Company>
+    <Product>TestGen AI</Product>
+    <Description>AI-powered unit test generator for .NET - zero config, works with all AI IDEs. Supports xUnit, NUnit, and more.</Description>
+    <PackageTags>testing;unit-test;test-generation;ai;xunit;nunit;dotnet;tool</PackageTags>
+    <RepositoryUrl>https://github.com/DivyamPant2803/testgen-ai.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/DivyamPant2803/testgen-ai</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
