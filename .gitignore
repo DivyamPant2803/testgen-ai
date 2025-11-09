@@ -6,3 +6,9 @@ dist/
 .env.local
 *.tsbuildinfo
 
+# .NET build artifacts
+dotnet-tool/**/bin/
+dotnet-tool/**/obj/
+*.nupkg
+!dotnet-tool/TestGenAI.Tool/bin/Release/*.nupkg
+
