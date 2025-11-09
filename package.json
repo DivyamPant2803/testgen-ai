@@ -1,0 +1,65 @@
+{
+  "name": "@testgen/ai",
+  "version": "0.1.0",
+  "description": "AI-powered unit test generator - zero config, works with all AI IDEs. Supports Jest, xUnit, NUnit and more.",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "sideEffects": false,
+  "bin": {
+    "testgen-init": "./bin/init.js",
+    "testgen-generate": "./bin/generate.js",
+    "testgen-run": "./bin/run.js"
+  },
+  "files": [
+    "dist",
+    "bin",
+    "prompts/universal",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "npm run build:ts && npm run build:cli",
+    "build:ts": "tsc && tsc --project tsconfig.mjs.json",
+    "build:cli": "node scripts/build-cli.js",
+    "prepublishOnly": "npm run build && npm run size-check",
+    "size-check": "node scripts/check-size.js"
+  },
+  "keywords": [
+    "unit-testing",
+    "test-generation",
+    "ai",
+    "jest",
+    "xunit",
+    "nunit",
+    "vitest",
+    "testing",
+    "test-automation",
+    "cursor",
+    "copilot",
+    "jetbrains",
+    "codeium",
+    "zero-config",
+    "testgen"
+  ],
+  "author": "Divyam Pant",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DivyamPant2803/testgen-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DivyamPant2803/testgen-ai/issues"
+  },
+  "homepage": "https://github.com/DivyamPant2803/testgen-ai#readme",
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.24",
+    "typescript": "^5.9.3"
+  }
+}
+
