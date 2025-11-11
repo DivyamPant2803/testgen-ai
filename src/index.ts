@@ -8,3 +8,5 @@ export { ProjectDetector } from './detectors/project-detector.js';
 export { ConfigManager } from './config/config-manager.js';
 export * from './types.js';
 
+
+

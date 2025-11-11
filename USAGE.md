@@ -372,3 +372,5 @@ console.log(`Project Type: ${detected.projectType}`);
 - 🐛 [Report Issues](https://github.com/DivyamPant2803/testgen-ai/issues)
 - 💬 [Discussions](https://github.com/DivyamPant2803/testgen-ai/discussions)
 
+
+
